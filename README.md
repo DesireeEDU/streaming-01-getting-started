@@ -47,8 +47,3 @@ python process_streaming_0.py
 If not, post screenshots and the text of any error messages in the discussion.
 ---
 
-
-## Additional Resources
-
-1. For more information about Git in VS Code, see [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview).
-1. For more information about editing Markdown in VS Code, see [Markdown and Visual Studio Code](https://code.visualstudio.com/docs/languages/markdown).
